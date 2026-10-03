@@ -1,5 +1,7 @@
 # 🎭 Sarcasm Detection System
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q7CZXoZUgMmTPGPcP5n959FnPJqBCNxn)
+
 A robust machine learning project that detects whether a given text is sarcastic or non-sarcastic. The system provides a simple, interactive web interface where users can type sentences and immediately get a prediction, along with the confidence score of the model.
 
 ## ✨ Features
